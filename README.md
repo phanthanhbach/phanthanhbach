@@ -3,6 +3,7 @@
 ### 👨‍💻 About me
 
 - I'm currently a 4th year student at **[University of Information Technology - Vietnam National University - Ho Chi Minh City](https://www.uit.edu.vn/)**
+- My major is E-Commerce
 ---
 
 ### 💻 Languages and Tools
