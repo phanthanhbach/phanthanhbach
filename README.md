@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About me
 
-- I'm currently a 4th year student at **[(Vietnam National University - Ho Chi Minh City) University of Information Technology](https://www.uit.edu.vn/)**
+- I'm currently a 4th year student at **[University of Information Technology (Vietnam National University - Ho Chi Minh City)](https://www.uit.edu.vn/)**
 - My major is E-Commerce
 ---
 
