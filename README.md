@@ -3,13 +3,13 @@
   <p align="center">Welcome to my Github profile</p>
 </div>
 
-### About Me
+## About Me
 
 * I'm currently a fourth-year student at **[University of Information Technology (Vietnam National University - Ho Chi Minh City)](https://www.uit.edu.vn/)**
 * My major is E-Commerce
 ---
 
-### Technologies and Tools
+## Technologies and Tools
 
 <h3>Languages</h3>
 
