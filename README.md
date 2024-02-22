@@ -13,9 +13,11 @@
 
 <h3>Languages</h3>
 
+![C++][Cplusplus.com] ![PHP][PHP.net] ![JavaScript][JavaScript.info]
+
 <h3>Database</h3>
 
-[![MicrosoftSQLServer][SQLserver]] [![MySQL][MySQL.com]]
+![MicrosoftSQLServer][SQLserver] ![MySQL][MySQL.com]
 
 <h3>Frameworks, Libraries</h3>
 
@@ -23,12 +25,15 @@
 
 <h3>Design</h3>
 
-[![Figma][Figma.com]] [![Canva][Canva.com]]
+![Figma][Figma.com] ![Canva][Canva.com]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+[JavaScript.info]: https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript
+[Cplusplus.com]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[PHP.net]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
 [SQLserver]: https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
 [MySQL.com]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
