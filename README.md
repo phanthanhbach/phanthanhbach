@@ -31,7 +31,7 @@
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[JavaScript.info]: https://img.shields.io/badge/style=for-the-badge&logo=javascript
+[JavaScript.info]: https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript
 [Cplusplus.com]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [PHP.net]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
 [SQLserver]: https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
