@@ -5,7 +5,7 @@
 
 ## About Me
 
-* I'm currently a fourth-year student at **[University of Information Technology (Vietnam National University - Ho Chi Minh City)](https://www.uit.edu.vn/)**
+* I have graduated with the Bachelor of Science in faculty of Information System at **[University of Information Technology (Vietnam National University - Ho Chi Minh City)](https://www.uit.edu.vn/)**
 * My major is E-Commerce
 ---
 
